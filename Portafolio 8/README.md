@@ -1,0 +1,11 @@
+# Portafolio 8: Arquitectura Móvil
+
+Esta semana escogí hablar sobre el cambio de arquitectura que se tomó dentro del grupo para la componente móvil del proyecto.
+
+Inicialmente, para el proyecto de este curso, habíamos decidido usar tres _frameworks_ distintos: _Ruby on Rails_ para el desarrollo del _backend_, _React_ para el desarrollo _web_, y _React Native_ para el desarrollo móvil. Al momemnto de decidir estos _frameworks_, la elección se hizo debido al conocimiento del grupo en _Rails_ para el _backend_, y la reutilización de componentes al utilizar _React_ para tanto _web_ como móvil.
+
+Esto último resultó ser un problema, dado que nadie en el equipo tenía experiencia con _React Native_. Esto significaba que en el tiempo de desarrollo debíamos incluir además un tiempo de capacitación, cosa que se veía muy compleja de realizar durante el semestre. A medida que empezamos a revisar todo lo que había que aprender para poder desarrollar la aplicación móvil, pudimos de verdad notar el verdadero impacto que esto tendría al momento de desarrollar, aplazando el verdadero inicio del desarrollo móvil por un tiempo considerable.
+
+Es por esto que, el día Viernes 22 decidimos finalmente abandonar la idea de desarrollar en _React Native_ y pasar al desarrollo en _Android_. La principal motivación por la cual decidimos ir a _Android_ fue por la experiencia previa del equipo: la mitad del grupo ya había realizado proyectos en _Android_ con anterioridad. Gracias a esto, pudimos crear el esqueleto de la aplicación muy rápido, y esperamos que el resto del desarrollo sea expedita.
+
+Lo más importante a destacar aquí es que detectamos un problema en el desarrollo del proyecto en una etapa muy temprana, lo que nos permitió poder realizar el cambio de _framework_ de manera sencilla. Si hubieramos avanzado más en el proyecto (en código, por ejemplo), este cambio habría sido mucho más complicado, ya que habría involucrado rehacer varios elementos y tener un plazo menor aún para el desarrollo del proyecto completo.
